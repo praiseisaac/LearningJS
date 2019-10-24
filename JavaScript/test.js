@@ -28,5 +28,3 @@ class Car{
 
 car = new Car("Ford");
 console.log(car.getbrand());
-car.setbrand("Porsche");
-console.log(car.getbrand());

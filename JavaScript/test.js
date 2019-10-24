@@ -1,5 +1,5 @@
 const i = 0;
-var p = ["praise","isaac","daramola"];
+var p = ["game","of","Thrones"];
 for(let i = 0;i < p.length;i++){
   console.log(p[i]);
 }
